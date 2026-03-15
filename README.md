@@ -7,3 +7,4 @@
 # Add contributing guidelines
 # Add roadmap section
 # Add license information
+# Final README polish
