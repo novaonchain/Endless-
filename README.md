@@ -6,3 +6,4 @@
 # Add getting started guide
 # Add contributing guidelines
 # Add roadmap section
+# Add license information
